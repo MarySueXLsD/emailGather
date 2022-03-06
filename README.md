@@ -8,7 +8,9 @@ Feel free to use it however you want, thanks for visiting me and good luck with 
 Install the packages by typing:
 
 cd emailGather
+
 zsh install.sh
+
 
 And then 'launch the rocket' by typing:
 
