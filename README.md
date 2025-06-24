@@ -8,9 +8,12 @@ Feel free to use it however you want, thanks for visiting me and good luck with 
 
 ## 🔧 Installation
 
-git clone https://github.com/your-org/emailGather.git
+git clone https://github.com/MarySueXLsD/emailGather
+
 cd emailGather
+
 python -m venv .venv && source .venv/bin/activate   # optional but recommended
+
 python -m pip install -r requirements.txt
 
 
